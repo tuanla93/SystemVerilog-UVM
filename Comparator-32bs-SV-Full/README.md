@@ -7,7 +7,7 @@ Testbench:
 5. Transaction, Generator, Driver classes
 6. Monitor and Scoreboard classes
 7. Cmodel writen in C++ for reference
-8. Checker module for checking assertions
+8. Checker module for assertion check
 
 Written in SystemVerilog without UVM!
 
